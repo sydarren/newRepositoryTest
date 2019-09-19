@@ -1,2 +1,5 @@
 # newRepositoryTest
-testing new shit
+testing some stuff out on Atom
+ignore this
+
+new changes
